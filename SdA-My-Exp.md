@@ -9,7 +9,7 @@ by Qiaolin Xia
 
 >**Note**
 
->I wrote this article based on my own experiments when I was practicing using Theano. I implemented two classifiers for this article -- *Simple MLP* and *MLP+SdA (MLP finetuning after SdA pretraining)*. Experimental results and my analysis has also been given. If you intend to run the code, my code is available for download on my Github. The code is slightly different with what deeplearning.net has provided. I've only tested it with ipython notebook (python2).
+>I wrote this article based on my own experiments when I was practicing using Theano. I implemented two classifiers for this article -- *Simple MLP* and *MLP+SdA (MLP finetuning after SdA pretraining)*. Experimental results and my analysis has also been given. If you intend to run the code, my code is available for download on my Github. The code is slightly different with what deeplearning.net provided. I've only tested it with ipython notebook (python2).
 >
 >Especially if you do not have experience with autoencoders, I recommend reading this tutorial [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html#da) before going any further.
 
